@@ -2,7 +2,7 @@
 
 This is a Freesurfer-based pipeline of Bash scripts, which orients, smooths, and segments CT images of the human brain. The pipeline consists of 3 steps, each of which with their own Bash script:
 1. CT preprocessing
-2. CT segmentation (for which there are two options with different thresholds)
+2. CT segmentation (for which there are two scripts to choose from with different thresholds)
 3. calculate stats (volume, mean intensity, etc.)
 
 ## Authors
@@ -18,7 +18,6 @@ SNI Imaging Lab
 - Bash shell
 - `iso.sh` script ([from Dianne Patterson](https://bitbucket.org/dpat/tools/raw/master/LIBRARY/iso.sh))
 - an [FSL license](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/license) (free)
-- 
 
 ## Usage
 
