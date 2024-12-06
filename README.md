@@ -17,6 +17,8 @@ SNI Imaging Lab
 - [FSL (FMRIB Software Library)](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/install/index)
 - Bash shell
 - `iso.sh` script ([from Dianne Patterson](https://bitbucket.org/dpat/tools/raw/master/LIBRARY/iso.sh))
+- an [FSL license](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/license) (free)
+- 
 
 ## Usage
 
@@ -31,7 +33,8 @@ save_fslstats_to_ID_list.sh
 
 1. Make sure you have a Bash shell. Mac OS and Linux have Bash pre-installed. Windows users can get Bash through the [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install).
 2. Install [FSL](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/install/index)
-3. Create the following folders and sub-folders
+3. Acquire Dianne Patterson's `iso.sh` script ([linked here](https://bitbucket.org/dpat/tools/raw/master/LIBRARY/iso.sh))
+4. Create the following folders and sub-folders
 ```
 /path/to/your/CT-images/
 ├── restore/               # Input images
