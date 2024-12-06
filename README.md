@@ -7,10 +7,10 @@ This is a Freesurfer-based pipeline of Bash scripts, which orients, smooths, and
 
 ## Authors
 
-Emily Foldes (emily.foldes@barrowneuro.org)
-Jacob Knittel (jacobknittle@creighton.edu)
-Dr. Kevin King (kking@sniweb.net)
-SNI Imaging Lab
+* Emily Foldes (emily.foldes@barrowneuro.org)
+* Jacob Knittel (jacobknittle@creighton.edu)
+* Dr. Kevin King (kking@sniweb.net)
+* SNI Imaging Lab
 
 ## Requirements
 
