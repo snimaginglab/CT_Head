@@ -1,4 +1,4 @@
-# Freesurfer for Brain Segmentation in CT Scans
+# FSL for Brain Segmentation in CT Scans
 
 This is a Freesurfer-based pipeline of Bash scripts, which orients, smooths, and segments CT images of the human brain. The pipeline consists of 3 steps, each of which with their own Bash script:
 1. CT preprocessing
