@@ -1,6 +1,6 @@
 # FSL for Brain Segmentation in CT Scans
 
-This is an FSL-based pipeline of Bash scripts, which orients, smooths, and segments CT images of the human brain. The pipeline consists of 3 steps, each of which with their own Bash script:
+This is an FSL-based pipeline of Bash scripts, which orients, smooths, and segments CT images of the human brain. The pipeline consists of 3 steps, each with their own Bash script:
 1. CT preprocessing
 2. CT segmentation (for which there are two scripts to choose from with different thresholds)
 3. calculate stats (volume, mean intensity, etc.)
