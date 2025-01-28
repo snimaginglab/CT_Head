@@ -78,7 +78,7 @@ stdorient_dir=$image_dir/stdorient
 
 #define atlases for image alignment and ventricle masking
 ##########################################################################################################
-atlas_dir=/mnt/Data/atlases
+atlas_dir=/atlases
 #echo $atlas_dir
 
 ##standard SRI24 brain atlas adjusted for CT HU values
