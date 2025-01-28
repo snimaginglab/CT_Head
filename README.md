@@ -57,5 +57,16 @@ Image_dir/
 
 ## License
 
-This software involves two separate licenses. One is a [Creative Commons BY-NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) for the shell scripts in this repository. The other is the license inherent to FSL (FMRIB Software Library), [which can be accessed here](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/license).
+This software involves three separate licenses:
+* a [Creative Commons BY-NC-ND 4.0 license](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en) for the shell scripts in this repository
+* the license inherent to FSL (FMRIB Software Library), [which can be accessed here](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/license)
+* the SRI24 atlas license (`LICENSE_SRI24_ATLAS.md`)
+
+## Citations
+
+T. Rohlfing, N.M. Zahr, E.V. Sullivan, A. Pfefferbaum, "The SRI24
+Multichannel Atlas of Normal Adult Human Brain Structure," Human
+Brain Mapping, vol. 31, no. 5, pp. 798-819, 2010. http://dx.doi.org/10.1002/hbm.20906
+
+
 
