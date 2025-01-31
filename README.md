@@ -5,6 +5,8 @@ This is an FSL-based pipeline of Bash scripts, which orients, smooths, and segme
 2. CT segmentation (for which there are two scripts to choose from with different thresholds)
 3. calculate stats (volume, mean intensity, etc.)
 
+If you use this work in your research please cite: "Knittel JJ, Hoskin JL, Hoyt DJ, Abdo JA, Foldes EL, McElvogue MM, Oliver CM, Keesler DA, Fife TD, Barranco FD, Smith KA, McComb JG, Borzage MT, King KS. Automated Detection of Normal Pressure Hydrocephalus Using CT Imaging for Calculating the Ventricle-to-Subarachnoid Volume Ratio. AJNR Am J Neuroradiol. 2025 Jan 8;46(1):141-146. doi: 10.3174/ajnr.A8451. PubMed PMID: 39746816; PubMed Central PMCID: PMC11735426."
+
 ## Authors
 
 * Emily Foldes (emily.foldes@barrowneuro.org)
