@@ -64,6 +64,8 @@ This software involves three separate licenses:
 * the license inherent to FSL (FMRIB Software Library), [which can be accessed here](https://fsl.fmrib.ox.ac.uk/fsl/docs/#/license)
 * the SRI24 atlas license (`LICENSE_SRI24_ATLAS.md`)
 
+Note: `atlases/pbmap_HU.nii.gz` is an adaptation of the SRI24 atlas (SRI24 template rescaled to CT Hounsfield units by K. King). As a derivative of SRI24, it is distributed under CC BY-SA 3.0 (`LICENSE_SRI24_ATLAS.md`), not under the CC BY-NC-ND license that covers the scripts.
+
 ## Citations
 
 T. Rohlfing, N.M. Zahr, E.V. Sullivan, A. Pfefferbaum, "The SRI24
